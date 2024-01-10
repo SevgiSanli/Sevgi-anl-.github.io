@@ -1,0 +1,152 @@
+body{
+	background:url("images/resim.jpg") repeat;
+}
+#alt{
+	width:980px;
+	height:50px;
+	border:1px solid #000;
+	margin: auto;	
+	padding:5px;
+	margin-top:-5px;
+}
+#alt li{
+	background-color:#2C94AD;
+	display: inline-block;
+	width:50px;
+	margin-left: 200px;
+	margin-top:-15px;
+
+}
+#alt a{
+	display:block;
+ 	text-decoration:none;
+	align:center;
+	color: #000
+	
+}
+#alt a:hover{
+	background-color:#FF007F;
+	color:white;
+}
+
+#kapsayici{
+	width:990px;
+	height:655px;
+	border:1px solid #000;
+	margin:auto;
+	
+}
+#banner{
+	width:990px;
+	height:199px;
+	border:1px solid #000;
+	margin-left:0px;
+}
+#yazi{
+	float:left;
+	width:808px;
+	height:200px;
+	margin-left:0px;
+	margin-top:0px;
+	text-align:center;
+	line-height:150px;
+}
+#resim{
+	padding:5px;
+	float:left;
+	width:150px;
+	height:150px;
+	margin-left:0px;
+	margin:center;
+}
+#resim img{
+	width:180px;
+	margin-top:-4px;
+	margin-left:-3px;
+
+}	
+#menu{
+	width:990px;
+	height:100px;
+	border:1px solid #000;
+	margin-left:0px;
+	margin-top:0px;
+}
+#menu li{
+	background-color:#2C94AD;
+	display:inline-block;
+	width:300px;
+	line-height:50px;
+	text-align:center;
+	margin: center;
+}
+#menu a{
+	display:block;
+	text-decoration:none;
+	color:#000;
+}
+#menu a:hover{
+	background-color:#2C8299;
+	color:#fff;
+}
+#orta{
+	float:left;
+	width:990px;
+	height:350px;
+	border:1px solid #000;
+	margin-left:0px;
+	margin-top:0px;
+	text-align:center;
+	
+}
+#icerik{
+	float:left;
+	width:325px;
+	height:350px;
+	border:1px solid #000;
+	margin:left;
+	text-align:left;
+}
+#icerik h2{
+	line-height:30px;
+	text-align:center;
+}
+#icerik p{
+	line-height:50px;
+	margin:50px;
+}
+#a{
+	float:left;
+	width:330px;
+	height:350px;
+	border:1px solid #000;
+	margin:center;
+	text-align:center;
+}
+#a li{
+	line-height:60px;
+	margin:10px;
+	text-align:left;
+}
+#a h2{
+	line-height:30px;
+	text-align:center;
+
+}
+#b{
+	float:left;
+	width:330px;
+	height:350px;
+	border:1px solid #000;
+	margin:center;
+	text-align:center;
+}
+#b li{
+	line-height:60px;
+	margin:10px;
+	text-align:left;
+}
+#b h2{
+	line-height:30px;
+	text-align:center;
+}
